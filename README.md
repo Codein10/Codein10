@@ -43,38 +43,11 @@ I enjoy solving real-world problems using clean code, modern UI, and efficient b
 - ☁️ Vercel, Netlify
 - 🧠 Cursor AI, ChatGPT
 
----
-
-## 📌 Featured Projects
-
-### 🔹 AI SaaS Landing Page
-- React + Tailwind CSS
-- Dark Mode, SEO Optimization
-- Authentication & Contact Form
-- Deployment ready for selling
-
-### 🔹 Book Rental System
-- Node.js + PostgreSQL
-- JWT Auth & Role Management
-- File Upload & Secure APIs
-
-### 🔹 Student Management System
-- React + TypeScript + Redux
-- ShadCN UI
-- CRUD Operations & State Management
-
-### 🔹 Chat Application (Full Stack)
-- Next.js App Router
-- Node.js API + PostgreSQL
-- Streaming responses & chat history
-
----
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- 🧑‍💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- ✉️ Email: your.email@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dinesh-vishwakarma12/
+- 🧑‍💻 GitHub: https://github.com/Codein10
+- ✉️ Email: dineshkum56p@gmail.com
 
 ---
 
