@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dinesh Vishwakarma
 
-🚀 Full Stack Web Developer | MERN Stack | React & Next.js Enthusiast  
-📍 India | 💼 Open to Opportunities
+🚀 Full Stack Web Developer | MERN Stack | React & Next.js Enthusiast, React Native  
+📍 India, out of india | 💼 Open to Opportunities
 
 ---
 
